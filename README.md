@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://www.linkedin.com/in/lawrence-jefferson-ii-46497075" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://www.linkedin.com/in/lawrence-jefferson-ii-46497075" alt="" height="30" width="40" /></a><p/>
 
 
 <br/>
 
 <h3 align="left">Technology Stack:</h3>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 
