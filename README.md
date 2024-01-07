@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Technology Stack</h3>
-![image]({[BadgeURLHere](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)})
+<p><img src="{[BadgeURLHere](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)}" />
+
+
+<p/>
 
 
 
