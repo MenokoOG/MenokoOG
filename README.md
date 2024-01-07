@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <!-- Markdown -->
 <h3 align="left"> Joke of the Day<h3/>
+
+  
 <p>![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)<p/>
 
 
