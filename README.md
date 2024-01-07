@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h4>Here is some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/">OLD PROJECTS.</a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan; zigged when I probably should have zagged. These were made primarily in the Adobe Master Collection, my degree in Web Publishing dealt with htese development tools.</h4>
 
-<h4> Here is my online<a href="https://menokoog.github.io/menoko_resume/">RESUME.</a>, a work in progress. </h4>
+<h4> Here is my online <a href="https://menokoog.github.io/menoko_resume/">RESUME.</a>, a work in progress. </h4>
 
 
 <h3 align="left">Technology Stack and Tools </h3>
