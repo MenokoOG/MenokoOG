@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript Web Development Program<h4/>
-- ⚡ Fun fact: ...I really enjoy making AI generated art. 
+<h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/>
 
 
 <h3 align="left">Technology Stack and Tools </h3>
