@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://www.linkedin.com/in/lawrence-jefferson-ii-46497075" alt="" height="30" width="40" /></a><p/>
+- 🔭 I’m currently working on ...V School Full Stack JavaScript Web Development Program
+- ⚡ Fun fact: ...I really enjoy making AI generated art. 
 
-
-<br/>
 
 <h3 align="left">Technology Stack:</h3>
 
