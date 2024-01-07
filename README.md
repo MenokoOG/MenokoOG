@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MenokoOG" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MenokoOG&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-alpha-ten-56.vercel.app/api/top-langs?username=MenokoOG&show_icons=true&theme=transparent" />
