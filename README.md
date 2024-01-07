@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I really enjoy making AI generated art. 
 
 
-<h3 align="left">Technology Stack:</h3>
+<h3 align="left">Technology Stack</h3>
 
 
 
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
