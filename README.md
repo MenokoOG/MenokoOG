@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript Web Development Program<h4/>
 <h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check it out my art <a href="https://menokoog.github.io/ai_art_menoko/">HERE.</a> <p/>
 
-<h4>Here is some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/">OLD PROJECTS.</a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan; zigged when I probably should have zagged. These were made primarily in the Adobe Master Collection, my degree in Web Publishing dealt with htese development tools.</h4>
+<h4>Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/">OLD PROJECTS.</a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan; zigged when I probably should have zagged. These were made primarily in the Adobe Master Collection, my degree in Web Publishing dealt with htese development tools.</h4>
 
 <h4> Here is my online <a href="https://menokoog.github.io/menoko_resume/">RESUME.</a>, a work in progress. </h4>
 
