@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <!-- Markdown -->
 <h3 align="left"> Joke of the Day<h3/>
-
+<br/>
   
-<p>![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)<p/>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
