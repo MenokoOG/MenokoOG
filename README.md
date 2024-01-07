@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript Web Development Program<h4/>
-<h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/>
+<p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript Web Development Program<h4/>
+<h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check it out <a href="https://menokoog.github.io/ai_art_menoko/">HERE.</a> <p/>
 
 
 <h3 align="left">Technology Stack and Tools </h3>
