@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 
 <!-- Markdown -->
-<div align="center"> <h3 align="left"> Joke of the Day<h3/></div>
+<h3 align="center"> Joke of the Day<h3/>
 <br/>
   
-<div align="center">![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  </div>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  
 
 <br/>
 <!--
