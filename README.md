@@ -33,12 +33,13 @@ Here are some ideas to get you started:
 
 
 <h3>Quote of the Day</h3>
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
 <br/>
 <!-- Markdown -->
-<h3 align="left"> Joke of the Day<h3/>
+<h3 align="left"> Joke of the Day</h3>
 <br/>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  
