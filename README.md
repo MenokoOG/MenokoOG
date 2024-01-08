@@ -32,12 +32,6 @@ Here are some ideas to get you started:
 <br/>
 
 
-<h3>Quote of the Day</h3>
-<br/>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-<br/>
 <!-- Markdown -->
 <h3 align="left"> Joke of the Day</h3>
 <br/>
