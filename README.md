@@ -46,10 +46,6 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MenokoOG&theme=dark&show_icons=true" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-alpha-ten-56.vercel.app/api/top-langs?username=MenokoOG&layout=compact" />
 </a>
