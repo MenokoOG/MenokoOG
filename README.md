@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <br/>
 <br/>
