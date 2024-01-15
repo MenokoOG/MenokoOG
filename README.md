@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
 <h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check out my art <a href="https://menokoog.github.io/ai_art_menoko/" target="_blank">HERE.</a> <p/>
 
-<h4>Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/" target="_blank">OLD PROJECTS </a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan; zigged when I probably should have zagged. These were made primarily in the Adobe Master Collection, my degree in Web Publishing dealt with these development tools.</h4>
+<h4>Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/" target="_blank">OLD PROJECTS </a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan.</h4>
 
 <h4> Here is my online <a href="https://menokoog.github.io/menoko_resume/" target="_blank">RESUME.</a>, a work in progress. </h4>
 
