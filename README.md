@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 <br/>
-<p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript Web Development Program<h4/>
+<p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program<h4/>
  
 <h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check out my art <a href="https://menokoog.github.io/ai_art_menoko/" target="_blank">HERE.</a> <p/>
 
