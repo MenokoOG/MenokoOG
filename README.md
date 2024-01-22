@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br/>
 <p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program<h4/>
 
-<h4> - ⚡ Fun fact: ...Here my blog posts on Medium:  <h4/><a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python .</a>  
+<h4> - ⚡ Fun fact: ...Here my blog posts on Medium:  <h4/><br/><a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python .</a>  <br/>
  <a href="https://medium.com/@jefftkddan/elevating-it-service-management-the-symbiosis-of-itil4-scrum-and-agile-in-software-development-a274a44e9e74" target="_blank">Elevating IT Service Management: The Symbiosis of ITIL4, Scrum, and Agile in Software Development: Welcome those error backlogs! .</a><p/>
  
 <h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check out my art <a href="https://menokoog.github.io/ai_art_menoko/" target="_blank">HERE.</a> <p/>
