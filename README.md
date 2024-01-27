@@ -4,7 +4,7 @@
 **MenokoOG/MenokoOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Check my progress <a href="https://github.com/MenokoOG/assignments" target="_blank">HERE.</a> 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 <br/>
-<p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program. Check my progress <a href="https://github.com/MenokoOG/assignments" target="_blank">HERE.</a> <h4/>
+<p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program. <h4/>
 
 <h4> - ⚡ Fun fact: ...Here my blog posts on Medium:  <h4/>
  <br/>
