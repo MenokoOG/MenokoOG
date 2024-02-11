@@ -27,7 +27,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
  <a href="https://medium.com/@jefftkddan/unveiling-the-geeky-symphony-oop-inheritance-meets-react-components-e679df6cd2ae" target="_blank">Unveiling the Geeky Symphony: OOP Inheritance Meets React Components</a><p/>
   <br/>
  <br/>
- <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">Unveiling the Geeky Symphony: OOP Inheritance Meets React Components</a><p/>
+ <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a><p/>
  
 <h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check out my art <a href="https://menokoog.github.io/ai_art_menoko/" target="_blank">HERE.</a> <p/>
 
