@@ -29,11 +29,9 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
  <br/>
  <a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python</a>  
  <br/>
- 
- <a href="https://medium.com/@jefftkddan/unveiling-the-geeky-symphony-oop-inheritance-meets-react-components-e679df6cd2ae" target="_blank">Unveiling the Geeky Symphony: OOP Inheritance Meets React Components</a>
-  <br/>
- 
+ <br/>
  <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a>
+ <br/>
  <br/>
  <a href="https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99" target="_blank">Menoko OG’s Magical Python Quest: Unleashing Coding Sorcery with Loops and List Comprehensions</a></p>
  
