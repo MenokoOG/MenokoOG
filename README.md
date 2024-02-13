@@ -35,7 +35,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
  
  <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a><p/>
  <br/>
- <a href="https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a><p/>
+ <a href="https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99" target="_blank">Menoko OG’s Magical Python Quest: Unleashing Coding Sorcery with Loops and List Comprehensions</a><p/>
  
 <h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check out my art <a href="https://menokoog.github.io/ai_art_menoko/" target="_blank">HERE.</a> <p/>
 
