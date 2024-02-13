@@ -30,14 +30,14 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
  <a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python</a>  
  <br/>
  
- <a href="https://medium.com/@jefftkddan/unveiling-the-geeky-symphony-oop-inheritance-meets-react-components-e679df6cd2ae" target="_blank">Unveiling the Geeky Symphony: OOP Inheritance Meets React Components</a><p/>
+ <a href="https://medium.com/@jefftkddan/unveiling-the-geeky-symphony-oop-inheritance-meets-react-components-e679df6cd2ae" target="_blank">Unveiling the Geeky Symphony: OOP Inheritance Meets React Components</a>
   <br/>
  
- <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a><p/>
+ <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a>
  <br/>
- <a href="https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99" target="_blank">Menoko OG’s Magical Python Quest: Unleashing Coding Sorcery with Loops and List Comprehensions</a><p/>
+ <a href="https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99" target="_blank">Menoko OG’s Magical Python Quest: Unleashing Coding Sorcery with Loops and List Comprehensions</a></p>
  
-<h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check out my art <a href="https://menokoog.github.io/ai_art_menoko/" target="_blank">HERE.</a> <p/>
+<h4> - ⚡ Fun fact: ...I really enjoy making AI generated art. <h4/> You can check out my art <a href="https://menokoog.github.io/ai_art_menoko/" target="_blank">HERE.</a> 
 
 <h4>Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/" target="_blank">OLD PROJECTS </a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan.</h4>
 
