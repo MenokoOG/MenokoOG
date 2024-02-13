@@ -19,6 +19,10 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program. <h4/>
 
+<a href="https://menokoceasercipher.netlify.app/" target="_blank">Caeser Cipher Project React + Vite </a>
+
+<a href="https://menokomemegenerator.netlify.app/" target="_blank">Meme Generator Projectt React + Vite </a>
+
 <p><h4> - 🔭 I’m currently working on ...A.I.Engineer path courese with Scrimba . <h4/>
 
 <h4> - ⚡ Fun fact: ...Here my blog posts on Medium:  <h4/>
