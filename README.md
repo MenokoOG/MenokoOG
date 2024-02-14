@@ -19,6 +19,8 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program. <h4/>
 
+<a href="https://menokobaconipsum.netlify.app/" target="_blank">Bacon Ipsum Fun Project React + Vite </a>
+
 <a href="https://menokoceasercipher.netlify.app/" target="_blank">Caeser Cipher Level 3 Project React + Vite </a>
 
 <a href="https://menokomemegenerator.netlify.app/" target="_blank">Meme Generator Level 3 Project React + Vite </a>
