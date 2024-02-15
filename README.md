@@ -25,7 +25,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <a href="https://menokomemegenerator.netlify.app/" target="_blank">Meme Generator Level 3 Project React + Vite </a>
 
-<p><h4> - 🔭 I’m currently working on ...A.I.Engineer path courese with Scrimba . <h4/>
+<p><h4> - 🔭 I’m currently working on ...A.I.Engineer path courese with Scrimba on the weekends when not buried in full stack studies. <h4/>
 
 <h4> - ⚡ Fun fact: ...Here my blog posts on Medium:  <h4/>
  <a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python</a>  
