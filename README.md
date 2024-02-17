@@ -18,7 +18,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <br/>
 <br/>
-<h2>Note: Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h2>
+<h3>Note: Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h3>
 <br/>
 <p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program. <h4/>
 
