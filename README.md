@@ -24,9 +24,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <a href="https://github.com/MenokoOG/bacon-ipsum-generator" target="_blank">Bacon Ipsum Fun Project React + Vite </a>
 
-<a href="https://menokoceasercipher.netlify.app/" target="_blank">Caeser Cipher Level 3 Project React + Vite </a>
 
-<a href="https://menokomemegenerator.netlify.app/" target="_blank">Meme Generator Level 3 Project React + Vite </a>
 
 <p><h4> - 🔭 I’m currently working on ...A.I.Engineer path courese with Scrimba on the weekends when not buried in full stack studies. <h4/>
 
