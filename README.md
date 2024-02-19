@@ -20,7 +20,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <h3>Note: Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h3>
 <br/>
-<p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) Web Development Program. <h4/>
+<p><h4> - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) <a href="https://github.com/MenokoOG/assignments">Web Development Program.</a> <h4/>
 
 <a href="https://github.com/MenokoOG/bacon-ipsum-generator" target="_blank">Bacon Ipsum Fun Project React + Vite </a>
 
