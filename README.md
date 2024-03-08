@@ -43,6 +43,9 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <br/>
 <a href="https://medium.com/@jefftkddan/transitioning-from-combat-engineering-to-software-engineering-a-path-to-healing-and-growth-1be494cd7d18" target="_blank">Transitioning from Combat Engineering to Software Engineering: A Path to Healing and Growth</a>
+<br/>
+ <br/>
+<a href="https://medium.com/@jefftkddan/a-click-is-just-a-click-three-stages-of-learning-development-the-bruce-lee-way-1a374d9efab9" target="_blank">A Click is just a Click: Three Stages of Learning Development the Bruce Lee Way</a>
 </p>
 
  
