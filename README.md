@@ -22,7 +22,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <h3>Note: Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h3>
 <br/>
-<p>
+
 ## - 🔭 I’m currently working on ...V School Full Stack JavaScript (MERN) <a href="https://vschool.io/courses/development/">Web Development Program.</a> 
 
 <a href="https://github.com/MenokoOG/archive-explorer" target="_blank">Web Archive Explorer Level 4 Project React + Vite </a>
@@ -49,7 +49,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
  <br/>
 <a href="https://medium.com/@jefftkddan/a-click-is-just-a-click-three-stages-of-learning-development-the-bruce-lee-way-1a374d9efab9" target="_blank">A Click is just a Click: Three Stages of Learning Development the Bruce Lee Way</a>
-</p>
+
 
  
  
