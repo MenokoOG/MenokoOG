@@ -52,7 +52,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
  
  
-<h4> My portfolio of development projects and  AI generated art. <h4/> You can check out my portfolio <a href="" target="_blank">HERE.</a> 
+<h4> My portfolio of development projects and  AI generated art. <h4/> You can check out my portfolio <a href="" target="_blank">UNDER CONSTRUCTION.</a> 
 
 <h4>Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/" target="_blank">OLD PROJECTS </a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan.</h4>
 
