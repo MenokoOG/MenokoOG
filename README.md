@@ -29,7 +29,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <a href="https://github.com/MenokoOG/bacon-ipsum-generator" target="_blank">Bacon Ipsum Fun Project React + Vite </a>
 
-<a href="" target="_blank">MERN Stack Helper App: Level 6 Full Stack Project </a>
+<a href="https://mern-stack-helper-2-0.onrender.com" target="_blank">MERN Stack Helper App: Level 6 Full Stack Project </a>
 
 
 
