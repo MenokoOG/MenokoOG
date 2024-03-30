@@ -31,7 +31,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <a href="https://github.com/MenokoOG/mern_stack_help_2" target="_blank">MERN Stack Helper App: Level 6 Full Stack Project </a>
 
-<h4>Fun lesson on very basic JavaScript fundamentals using the Halo universe.  <a href="https://github.com/MenokoOG/halo_javascript_lessons" target="_blank">JavScript Lessons in Halo </a>Feel free to clone for your own use. </h4>
+<h4>Fun lesson on very basic JavaScript fundamentals I put together using the Halo universe set the tone.  <a href="https://github.com/MenokoOG/halo_javascript_lessons" target="_blank">JavScript Lessons in Halo </a>Feel free to clone for your own use. </h4>
 
 
 
