@@ -53,7 +53,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <a href="https://medium.com/@jefftkddan/a-click-is-just-a-click-three-stages-of-learning-development-the-bruce-lee-way-1a374d9efab9" target="_blank">A Click is just a Click: Three Stages of Learning Development the Bruce Lee Way</a>
 <br/>
 <br/>
-<a href="https://medium.com/@jefftkddan/title-unveiling-the-magic-immutable-and-mutable-data-types-in-python-and-javascript-3811cc451b9b" target="_blank">A Click is just a Click: Three Stages of Learning Development the Bruce Lee Way</a>
+<a href="https://medium.com/@jefftkddan/title-unveiling-the-magic-immutable-and-mutable-data-types-in-python-and-javascript-3811cc451b9b" target="_blank">Unveiling the Magic: Immutable and Mutable Data Types in Python and JavaScript</a>
 
 
  
