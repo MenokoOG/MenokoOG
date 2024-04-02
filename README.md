@@ -54,6 +54,9 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <br/>
 <a href="https://medium.com/@jefftkddan/title-unveiling-the-magic-immutable-and-mutable-data-types-in-python-and-javascript-3811cc451b9b" target="_blank">Unveiling the Magic: Immutable and Mutable Data Types in Python and JavaScript</a>
+<br/>
+<br/>
+<a href="https://medium.com/@jefftkddan/the-human-touch-unveiling-the-true-power-behind-technology-dont-be-scared-of-ai-ef6fe5fd88bc" target="_blank">The Human Touch: Unveiling the True Power Behind Technology: Don't Be Scared of AI.</a>
 
 
  
