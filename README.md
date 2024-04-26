@@ -29,7 +29,8 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <p>Fun lesson on very basic JavaScript fundamentals I put together using the Halo universe to set the tone.  <a href="https://github.com/MenokoOG/halo_javascript_lessons" target="_blank">JavaScript Lessons in Halo </a>Feel free to clone for your own use. </p>
 
 
- - ⚡ Fun fact: ...Here my blog posts on Medium:  
+ - ⚡ Fun fact: ...Here my blog posts on Medium:
+   
  <a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python</a>  
  <br/>
  <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a>
