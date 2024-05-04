@@ -56,7 +56,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <br/>
 
-<div align="center"><h3 align="center">My Stack comes from these languages and the associated frameworks. Did not want a bazzilion butttons.  </h3>  </div>
+<div align="center"><h3 align="center">My Stack comes from these languages and the associated frameworks. </h3>  </div>
 <div><a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-alpha-ten-56.vercel.app/api/top-langs?username=MenokoOG&langs_count=15&hide_progress=true" />
 </a>
