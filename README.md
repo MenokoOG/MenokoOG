@@ -77,5 +77,5 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <br/>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-alpha-ten-56.vercel.app/api/top-langs?username=MenokoOG&hide_progress=true" />
+  <img height=200 align="center" src="https://github-readme-stats-alpha-ten-56.vercel.app/api/top-langs?username=MenokoOG&langs_count=8&hide_progress=true" />
 </a>
