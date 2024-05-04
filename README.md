@@ -71,10 +71,11 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <!-- Markdown -->
 <div align="center"> Joke of the Day
 <br/>
+<br/>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  
  </div> 
-<br/>
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
