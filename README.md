@@ -48,15 +48,15 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
  
  
  
- ### You can check out my portfolio <a href="https://menokoog.github.io/menoko_portfolio/" target="_blank">Here.</a> 
+ #### You can check out my portfolio <a href="https://menokoog.github.io/menoko_portfolio/" target="_blank">Here.</a> 
 
-### Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/" target="_blank">OLD PROJECTS </a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan.
+####  Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/" target="_blank">OLD PROJECTS </a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan.
 
 <!--<h4> Here is my online <a href="https://menokoog.github.io/menoko_resume/" target="_blank">RESUME.</a>, a work in progress. </h4> -->
 
 <br/>
 
-<div align="center"><h3 align="center">My Stack comes from these languages and the associated frameworks. </h3>  </div>
+#### <div align="center"><p align="center">My Stack comes from these languages and the associated frameworks.</p>  </div>
 <div><p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-alpha-ten-56.vercel.app/api/top-langs?username=MenokoOG&langs_count=15&hide_progress=true" />
 </a></p>
@@ -69,11 +69,11 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 
 <!-- Markdown -->
-<h3 align="left"> Joke of the Day</h3>
+<h3 align="center"> Joke of the Day</h3>
 <br/>
-  
+  <p align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  
-
+  </p>
 <br/>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
