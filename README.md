@@ -23,7 +23,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <h3>Note: Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h3>
 <br/>
 
- - 🔭 I’m currently working on ... project with Vast AI Gang and learning Nx Dev, TypeScript amd Nest.js. 
+ - 🔭 I’m currently working on ... project with Vast AI Gang and learning Nx Dev, TypeScript and Nest.js. 
 
 
 <p>Fun lesson on very basic JavaScript fundamentals I put together using the Halo universe to set the tone.  <a href="https://github.com/MenokoOG/halo_javascript_lessons" target="_blank">JavaScript Lessons in Halo </a>Feel free to clone for your own use. </p>
