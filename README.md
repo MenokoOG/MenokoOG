@@ -76,9 +76,9 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  
  </div> 
 
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 <br/>
 <br/>
+<div align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </div>
+
+
 
