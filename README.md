@@ -1,4 +1,4 @@
- [![MasterHead](https://github.com/MenokoOG/MenokoOG/blob/main/github-header-image.png)](https://github.com/MenokoOG)
+<div align="center> [![MasterHead](https://github.com/MenokoOG/MenokoOG/blob/main/github-header-image.png)](https://github.com/MenokoOG) </div>
 
 <!--
 **MenokoOG/MenokoOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
