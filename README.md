@@ -80,7 +80,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=juicyfresh)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=juicyfresh)
  
 
 
