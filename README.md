@@ -79,7 +79,9 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <br/>
 
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenokoOG&theme=github_dark" alt="MenokoOG's GitHub Stats"/>
+</div>
  ![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=juicyfresh)
  
 
