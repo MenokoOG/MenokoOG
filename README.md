@@ -26,7 +26,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
  - 🔭 I’m currently working on ... project with Vast AI Gang using Nx Dev monorepo and tooling, TypeScript, Firebase, React, Redux and Nest.js. 
 
 
-<p>Fun lesson on very basic JavaScript fundamentals I put together using the Halo universe to set the tone.  <a href="https://github.com/MenokoOG/halo_javascript_lessons" target="_blank">JavaScript Lessons in Halo </a>Feel free to clone for your own use. </p>
+<h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. </h3>
 
 
  - ⚡ Fun fact: ...Here my blog posts on Medium:
