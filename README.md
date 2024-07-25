@@ -23,7 +23,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <h3>Note: Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h3>
 <br/>
 
- - 🔭 I’m currently working on ... project with Vast AI Gang using Nx Dev monorepo and tooling, TypeScript, Firebase, React, Redux and Nest.js. 
+ - 🔭 I’m currently working on ... project with op-veteran to build an event application. 
 
 
 <h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. </h3>
