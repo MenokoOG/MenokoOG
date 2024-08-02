@@ -23,13 +23,13 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <h3>Note: Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h3>
 <br/>
 
- - 🔭 <h3>I’m currently working on ... project with op-veteran to build an event application. </h3>
+ <h3>I’m currently working on ... project with op-veteran to build an event application. </h3>
 
 
 <h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. </h3>
 
 
- - ⚡ Fun fact: ...Here my blog posts on Medium:
+<h4>...Here my blog posts on Medium:</h4>
    
  <a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python</a>  
  <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a>
