@@ -20,7 +20,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <br/>
 <br/>
-**Tip**  
+Note: 
 Do a **CTRL+click** (on Windows and Linux) or **CMD+click** (on MacOS) to open links in a new window.
 
 <br/>
