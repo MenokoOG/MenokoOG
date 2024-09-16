@@ -21,7 +21,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 <br/>
 > [!TIP]
- <h3> Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.</h3>
+> Do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open new window for my links.
 <br/>
 
  <h3>I’m currently working on ... Freelance projects. </h3>
