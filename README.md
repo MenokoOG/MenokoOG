@@ -1,11 +1,10 @@
-<!-- Header Image -->
-[![MasterHead](https://github.com/MenokoOG/MenokoOG/blob/main/github-header-image.png)](https://github.com/MenokoOG)
+<span style="display:block;text-align:center"> [![MasterHead](https://github.com/MenokoOG/MenokoOG/blob/main/github-header-image.png)](https://github.com/MenokoOG) </span>
 
-<!-- GitHub profile information -->
+<!--
 **MenokoOG/MenokoOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Check my progress [HERE](https://github.com/MenokoOG/assignments).
-
+Here are some ideas to get you started:
+Check my progress <a href="https://github.com/MenokoOG/assignments" target="_blank">HERE.</a> 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,42 +13,83 @@ Check my progress [HERE](https://github.com/MenokoOG/assignments).
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
+<p><h4> - 🔭 I’m currently working on ...A.I.Engineer path course with Scrimba on the weekends when not buried in full stack studies. <h4/>
+<div align="center"> </div>
+-->
 
-<!-- Badges -->
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+<br/>
+<br/>
+> [!TIP]
+> Do a **CTRL+click** (on Windows and Linux) or **CMD+click** (on MacOS) to open links in a new window.
+<br/>
 
-<h4>- 🔭 I’m currently working on ... A.I. Engineer path course with Scrimba on the weekends when not buried in full stack studies.</h4>
 
-### Fun little React app based off the FizzBuzz sequence:
-- [FizzBuzz React](https://github.com/MenokoOG/fizzbuzz-react) - Feel free to clone for your own use.
+ <h3>I’m currently working on ... Freelance projects. </h3>
 
-<h4>Here are my blog posts on Medium:</h4>
-- [Cruising on the Coding Highway: A Joyride with JavaScript and Python](https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109)
-- [JavaScript Loops and the Map Method: A Fun Exploration](https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d)
-- [Menoko OG’s Magical Python Quest: Unleashing Coding Sorcery with Loops and List Comprehensions](https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99)
-- [Transitioning from Combat Engineering to Software Engineering: A Path to Healing and Growth](https://medium.com/@jefftkddan/transitioning-from-combat-engineering-to-software-engineering-a-path-to-healing-and-growth-1be494cd7d18)
 
-### You can check out my portfolio [Here](https://ljefferson-menoko-site.netlify.app/).
+<h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. </h3>
 
-#### [OLD PROJECTS](https://menokoog.github.io/Past-Web-Projects-for-Clients/) from 2010-2013 when I ran a part-time web development venture while still in the U.S. Army healing up from injuries I received in Afghanistan.
 
-#### My Stack comes from these languages and the associated frameworks:
-<div align="center">
+<h4>...Here my blog posts on Medium:</h4>
+   
+ <a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python</a>  
+ <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a>
+ <br/>
+ <a href="https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99" target="_blank">Menoko OG’s Magical Python Quest: Unleashing Coding Sorcery with Loops and List Comprehensions</a>
+<br/>
+<a href="https://medium.com/@jefftkddan/transitioning-from-combat-engineering-to-software-engineering-a-path-to-healing-and-growth-1be494cd7d18" target="_blank">Transitioning from Combat Engineering to Software Engineering: A Path to Healing and Growth</a>
+<br/>
+<a href="https://medium.com/@jefftkddan/a-click-is-just-a-click-three-stages-of-learning-development-the-bruce-lee-way-1a374d9efab9" target="_blank">A Click is just a Click: Three Stages of Learning Development the Bruce Lee Way</a>
+<br/>
+<a href="https://medium.com/@jefftkddan/title-unveiling-the-magic-immutable-and-mutable-data-types-in-python-and-javascript-3811cc451b9b" target="_blank">Unveiling the Magic: Immutable and Mutable Data Types in Python and JavaScript</a>
+<br/>
+<a href="https://medium.com/@jefftkddan/the-human-touch-unveiling-the-true-power-behind-technology-dont-be-scared-of-ai-ef6fe5fd88bc" target="_blank">The Human Touch: Unveiling the True Power Behind Technology: Don't Be Scared of AI.</a>
+
+
+ 
+ 
+ 
+ ### You can check out my portfolio <a href="https://ljefferson-menoko-site.netlify.app/" target="_blank">Here.</a> 
+
+####  Here are some of my <a href="https://menokoog.github.io/Past-Web-Projects-for-Clients/" target="_blank">OLD PROJECTS </a> from 2010-2013 when I ran a part time web development venture while still in U.S. Army healing up from injuries I recieved in Afghanistan.
+
+<!--<h4> Here is my online <a href="https://menokoog.github.io/menoko_resume/" target="_blank">RESUME.</a>, a work in progress. </h4> -->
+
+<br/>
+
+#### <div align="center"><p align="center">My Stack comes from these languages and the associated frameworks.</p>  </div>
+<div><p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-alpha-ten-56.vercel.app/api/top-langs?username=MenokoOG&langs_count=15&hide_progress=true" />
+</a></p>
 </div>
+<!-- <div align="center"><p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <p/></div> -->
+  
 
-### Joke of the Day:
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+<br/>
+
+
+<!-- Markdown -->
+<div align="center"> Joke of the Day
+<br/>
+<br/>
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  
+ </div> 
+
+<br/>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenokoOG&theme=github_dark" alt="MenokoOG's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenokoOG&theme=github_dark" alt="MenokoOG's GitHub Stats"/>
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=juicyfresh)
+
+ ![trophy](https://github-profile-trophy.vercel.app/?username=MenokoOG&theme=juicyfresh)
+ 
+
+
+
+
+
