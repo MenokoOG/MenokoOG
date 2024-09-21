@@ -30,7 +30,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
  <h3>I’m currently working on ... Freelance projects. </h3>
 
 
-<h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. </h3>
+<h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. <a href="https://fizzbuzzreact.netlify.app/" target="_blank">Live Demo  HERE ! </a> </h3>
 
 
 <h4>...Here my blog posts on Medium:</h4>
