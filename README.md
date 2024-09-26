@@ -27,7 +27,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 
 
- <h3>I’m currently working on ... Freelance projects. </h3>
+ <h3>I’m currently working on ... Shogun-G project that is prototype for larger project: Check out the code here: <a href="https://github.com/MenokoOG/shogun-g" target="_blank"> Shogun-G Repo </a> Feel free to clone for your own use. <a href="https://shogun-g.netlify.app/" target="_blank"> How it looks so far !  </a></h3>
 
 
 <h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. <a href="https://fizzbuzzreact.netlify.app/" target="_blank"> Live Demo  HERE ! </a> </h3>
