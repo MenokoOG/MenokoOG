@@ -37,18 +37,8 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <h4>...Here my blog posts on Medium:</h4>
    
- <a href="https://medium.com/@jefftkddan/cruising-on-the-coding-highway-a-joyride-with-javascript-and-python-d28a1a4ea109" target="_blank">Cruising on the Coding Highway: A Joyride with JavaScript and Python</a>  
- <a href="https://medium.com/@jefftkddan/javascript-loops-and-the-map-method-a-fun-exploration-cb672439e94d" target="_blank">JavaScript Loops and the Map Method: A Fun Exploration</a>
- <br/>
- <a href="https://medium.com/@jefftkddan/menoko-ogs-magical-python-quest-unleashing-coding-sorcery-with-loops-and-list-comprehensions-22c3e8a0ab99" target="_blank">Menoko OG’s Magical Python Quest: Unleashing Coding Sorcery with Loops and List Comprehensions</a>
-<br/>
-<a href="https://medium.com/@jefftkddan/transitioning-from-combat-engineering-to-software-engineering-a-path-to-healing-and-growth-1be494cd7d18" target="_blank">Transitioning from Combat Engineering to Software Engineering: A Path to Healing and Growth</a>
-<br/>
-<a href="https://medium.com/@jefftkddan/a-click-is-just-a-click-three-stages-of-learning-development-the-bruce-lee-way-1a374d9efab9" target="_blank">A Click is just a Click: Three Stages of Learning Development the Bruce Lee Way</a>
-<br/>
-<a href="https://medium.com/@jefftkddan/title-unveiling-the-magic-immutable-and-mutable-data-types-in-python-and-javascript-3811cc451b9b" target="_blank">Unveiling the Magic: Immutable and Mutable Data Types in Python and JavaScript</a>
-<br/>
-<a href="https://medium.com/@jefftkddan/the-human-touch-unveiling-the-true-power-behind-technology-dont-be-scared-of-ai-ef6fe5fd88bc" target="_blank">The Human Touch: Unveiling the True Power Behind Technology: Don't Be Scared of AI.</a>
+ <a href="https://medium.com/@jefftkddan" target="_blank">Menoko OG - Original Geek !</a>  
+
 
 
  
