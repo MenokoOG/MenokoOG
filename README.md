@@ -27,7 +27,9 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 
 
- <h3>I’m currently working on ... Automation of Api endpoints from back end to front end. Check out the code here: <a href="https://github.com/MenokoOG/js-backend-api-list-app" target="_blank"> Menoko's Auto API in MERN </a></h3>
+<h3>I’m currently working on ... Open Source Project. Check it out here: <a href="https://github.com/1kloc-Useful-Apps-in-1-000-Lines" target="_blank"> 1Kloc </a></h3>
+
+ <h3>Automation of Api endpoints from back end to front end. Check out the code here: <a href="https://github.com/MenokoOG/js-backend-api-list-app" target="_blank"> Menoko's Auto API in MERN </a></h3>
 
  <h3>Shogun-G project that is prototype for larger project: Check out the code here: <a href="https://github.com/MenokoOG/shogun-g" target="_blank"> Shogun-G Repo </a> Feel free to clone for your own use. <a href="https://shogun-g.netlify.app/" target="_blank"> How it looks so far !  </a></h3>
 
