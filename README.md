@@ -16,6 +16,14 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 <p><h4> - 🔭 I’m currently working on ...A.I.Engineer path course with Scrimba on the weekends when not buried in full stack studies. <h4/>
 <div align="center"> </div>
+ <h3>Automation of Api endpoints from back end to front end. Check out the code here: <a href="https://github.com/MenokoOG/js-backend-api-list-app" target="_blank"> Menoko's Auto API in MERN </a></h3>
+
+ <h3>Shogun-G project that is prototype for larger project: Check out the code here: <a href="https://github.com/MenokoOG/shogun-g" target="_blank"> Shogun-G Repo </a> Feel free to clone for your own use. <a href="https://shogun-g.netlify.app/" target="_blank"> How it looks so far !  </a></h3>
+
+
+<h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. <a href="https://fizzbuzzreact.netlify.app/" target="_blank"> Live Demo  HERE ! </a> </h3>
+
+<h3>Vanilla HTML, CSS, and JS fun zombie reporting site. Uses custom fake data generator API and chart.js <a href="https://github.com/MenokoOG/zombie-report-html" target="_blank">Zombie Report & Tracker</a> Feel free to clone for your own use. <a href="https://menokoog.github.io/zombie-report-html/" target="_blank"> Live Demo  HERE ! </a> </h3>
 -->
 
 <br/>
@@ -29,24 +37,12 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 
 <h3>I’m currently working on ... Open Source Project. Check it out here: <a href="https://github.com/1kloc-Useful-Apps-in-1-000-Lines" target="_blank"> 1Kloc </a></h3>
 
- <h3>Automation of Api endpoints from back end to front end. Check out the code here: <a href="https://github.com/MenokoOG/js-backend-api-list-app" target="_blank"> Menoko's Auto API in MERN </a></h3>
-
- <h3>Shogun-G project that is prototype for larger project: Check out the code here: <a href="https://github.com/MenokoOG/shogun-g" target="_blank"> Shogun-G Repo </a> Feel free to clone for your own use. <a href="https://shogun-g.netlify.app/" target="_blank"> How it looks so far !  </a></h3>
-
-
-<h3>Fun little React app based off of FizzBuzz sequence <a href="https://github.com/MenokoOG/fizzbuzz-react" target="_blank">FizzBuzz React </a>Feel free to clone for your own use. <a href="https://fizzbuzzreact.netlify.app/" target="_blank"> Live Demo  HERE ! </a> </h3>
-
-<h3>Vanilla HTML, CSS, and JS fun zombie reporting site. Uses custom fake data generator API and chart.js <a href="https://github.com/MenokoOG/zombie-report-html" target="_blank">Zombie Report & Tracker</a> Feel free to clone for your own use. <a href="https://menokoog.github.io/zombie-report-html/" target="_blank"> Live Demo  HERE ! </a> </h3>
-
 
 <h4>...Here my blog posts on Medium:</h4>
    
  <a href="https://medium.com/@jefftkddan" target="_blank">Menoko OG - Original Geek !</a>  
 
 
-
- 
- 
  
  ### You can check out my portfolio <a href="https://ljefferson-menoko-site.netlify.app/" target="_blank">Here.</a> 
 
