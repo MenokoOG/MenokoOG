@@ -35,7 +35,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 
 
-<h3>I’m currently working on ... crating the  source project <a href="https://github.com/1kloc-Useful-Apps-in-1-000-Lines" target="_blank"> 1Kloc </a></h3>
+<h3>I’m currently working on ... creating the open source project <a href="https://github.com/1kloc-Useful-Apps-in-1-000-Lines" target="_blank"> 1Kloc </a></h3>
 
 
 <h4>...Here my blog posts on Medium:</h4>
