@@ -35,7 +35,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 
 
-<h3>I’m currently working on ... GunKustom, Military Order of Purple Heart, <a href="https://github.com/OkO-Forge-LLC" target="_blank"> OkO Forge LLC </a> and creating the open source project <a href="https://github.com/1kloc-Useful-Apps-in-1-000-Lines" target="_blank"> 1Kloc </a></h3>
+<h3>I’m currently working on ... <a href="https://gunkustom.com/" target="_blank"> GunKustom</a>, <a href="https://www.purpleheart.org/" target="_blank"> Military Order of Purple Heart </a>, <a href="https://powalert.com/" target="_blank"> PowAlert </a>, and <a href="https://github.com/OkO-Forge-LLC" target="_blank"> OkO Forge LLC </a>. </h3>
 
 
 <h4>...Here my blog posts on Medium:</h4>
