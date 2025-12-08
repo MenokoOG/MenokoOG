@@ -35,7 +35,7 @@ Check my progress <a href="https://github.com/MenokoOG/assignments" target="_bla
 <br/>
 
 
-<h3>I’m currently working on ... <a href="[https://gunkustom.com/](https://github.com/tr88th/netreaper)" target="_blank"> Netreaper Contributor</a> </h3>
+<h3>I’m currently working on ... <a href="https://github.com/tr88th/netreaper" target="_blank"> Netreaper Contributor</a> </h3>
 
 
 <h4>...Here my blog posts on Medium:</h4>
