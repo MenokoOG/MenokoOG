@@ -22,54 +22,114 @@
 
 I am a **Staff-level software engineer** specializing in **backend platforms, modular APIs, and security-aware system design**.
 
-My work focuses on:
-- Designing **maintainable, production-ready backends**
-- Supporting **multiple teams and products** through shared platform foundations
-- Shipping systems that value **clarity, reliability, and documentation**
-- Mentoring engineers and improving delivery velocity through structure
+My work centers on building systems that:
+- Scale across **teams and products**
+- Remain **understandable under pressure**
+- Prioritize **clarity, documentation, and long-term ownership**
+- Enable engineers to move fast *without breaking trust*
 
-I’ve worked across **startups, production systems, and security-focused environments**, and I care deeply about building software that people can trust and extend.
+I’ve worked across startups, production systems, and security-focused environments, often in roles where I was responsible not just for code—but for **how teams succeed on top of that code**.
 
 ---
 
 ## 🔭 Current Focus
 
 - **Obsidian Control Plane**  
-  Multi-tenant engineering workflow backend for managing projects, teams, and delivery across multiple companies.
+  A multi-tenant engineering workflow backend designed to support multiple companies under a shared platform.  
+  Focus areas: org/company tenancy, membership-driven RBAC, audit logging, and documentation-first APIs.
 
 - **Pathscribe**  
-  API detection and generation tooling to accelerate documentation and backend/frontend alignment.
+  API detection and generation tooling to reduce friction between backend implementation and documentation.  
+  Built to support modular architectures and improve delivery velocity.
 
 - **NeuroTerp Index**  
-  Structured data modeling and indexing project focused on clean schemas and pipeline-ready data.
+  Structured data modeling and indexing project focused on clean schemas, ETL-friendly pipelines, and reference-grade data.
 
 - **Wicked Crimson**  
   Cybersecurity training and tooling initiative focused on practical defense, monitoring, and education.
 
 ---
 
+## 🧭 How I Think About Systems
+
+When designing software, I optimize for **clarity, longevity, and team scalability** over novelty.
+
+### 1. Architecture Enables People  
+Good architecture reduces cognitive load.
+- Clear module boundaries
+- Predictable data contracts
+- Documentation that lives with the code
+
+If a system requires tribal knowledge to change, it will fail as teams grow.
+
+---
+
+### 2. Platforms > Projects  
+I prefer building **platform foundations** that support multiple products and teams.
+- Shared authentication and authorization
+- Reusable domain models
+- Consistent observability and audit trails
+
+This mindset informs my work on **Obsidian Control Plane** and my backend leadership at **GunKustom**.
+
+---
+
+### 3. Defaults Matter  
+Systems should be safe and usable *by default*.
+- Secure-by-default APIs
+- Explicit permissions (RBAC)
+- Sensible error handling and logging
+
+If a mistake is easy to make, it will be made—eventually.
+
+---
+
+### 4. Documentation Is a First-Class Feature  
+Documentation is not an afterthought.
+- API contracts are written alongside implementation
+- Architectural decisions are captured near the code
+- New engineers should ramp without direct hand-holding
+
+This philosophy directly informs **Pathscribe**.
+
+---
+
+### 5. Humans Are Part of the System  
+Software exists in human environments.
+- Engineers get tired
+- Context switches happen
+- Stress exposes weak abstractions
+
+I design systems to remain understandable *under real-world conditions*.
+
+---
+
 ## 🏗️ Selected Professional Work
 
 ### **GunKustom**
-- Lead Backend Engineer → CTO  
-- Architected and delivered a modular API platform with a strong engineering team  
-- Focus on maintainability, secure boundaries, and long-term ownership
+**Lead Backend Engineer → CTO**
+
+- Architected and delivered a modular backend platform with a strong engineering team  
+- Focused on maintainability, secure boundaries, and long-term ownership  
+- Prioritized mentorship, documentation, and continuity as the system scaled
 
 **Tech:** NestJS, TypeScript, MongoDB, Mongoose, OAuth, JWT, Swagger, Jest, Render
 
 ---
 
 ### **PowAlert**
-- Led backend engineering delivery to production  
-- Built and shipped the majority of backend services under real timelines  
-- Worked closely with product and business stakeholders
+**Backend Engineering Lead (Delivery to Production)**
+
+- Led backend engineering delivery under real timelines  
+- Implemented the majority of backend services  
+- Collaborated closely with product and business stakeholders to ship reliably
 
 **Tech:** Node.js, Express, MongoDB, Redis, Twilio, Jest
 
 ---
 
 ### **Vast AI Host Dashboard**
-- Delivered features and refactors across auth, reporting, notifications, and metrics  
+- Delivered features and refactors across authentication, reporting, notifications, and metrics  
 - Focused on observability, UX clarity, and operational reliability
 
 ---
@@ -77,12 +137,12 @@ I’ve worked across **startups, production systems, and security-focused enviro
 ## 🧠 Open Source & Education
 
 - **M3n0koOg Learning Lounge** — open-source classroom for software engineering & cybersecurity  
-- **1Kloc** — practical apps built in ≤1,000 lines of code, focused on real features  
+- **1Kloc** — practical apps built in ≤1,000 lines of code, focused on real-world features  
 - **NetReaper** — contributor to unified network/security tooling
 
 ---
 
-## 🧰 Technical Stack
+## 🧰 Technical Toolkit
 
 ### Languages & Platforms
 - JavaScript / TypeScript
@@ -93,7 +153,7 @@ I’ve worked across **startups, production systems, and security-focused enviro
 ### Backend & Platform
 - NestJS, Express
 - Mongoose
-- Firebase Auth
+- Firebase Authentication
 - REST / OpenAPI
 - Modular service design
 
@@ -138,5 +198,5 @@ If something here resonates, reach out via **LinkedIn** or email.
 ---
 
 <p align="center">
-  <em>Professional, human-centered software — built to last.</em>
+  <em>Staff-level engineer focused on building platforms that scale teams, not just codebases.</em>
 </p>
