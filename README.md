@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Lawrence Jefferson II — M3n0koOg</h1>
+<h1 align="center">Lawrence Jefferson II — M3n0ko0g</h1>
 
 <p align="center">
   Staff Software Engineer · Platform & Backend Architecture · Security-Minded Systems
