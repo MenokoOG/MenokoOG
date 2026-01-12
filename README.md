@@ -42,7 +42,9 @@ I’ve worked across startups, production systems, and security-focused environm
   Structured data modeling and indexing project focused on clean schemas, ETL-friendly pipelines, and reference-grade data.
 
 - **Crimson Obsidain Industries - Human Assisted Daignostic Evaluation System- HADES**  
-  Structured data modeling and indexing project focused on clean schemas, ETL-friendly pipelines, and reference-grade data.
+ When autonomous agents fail today — drift, ambiguity, unintended autonomy, exploit vulnerability — remediation often means deletion or replacement. No forensic reconstruction. No ethical review. No rehabilitation process.
+
+HADES treats failure as a diagnostic event rather than a terminal state. We study failure transparently, evaluate behavior ethically, and support structured corrective reintegration.
 
 ---
 
