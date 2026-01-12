@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lawrence-jefferson-ii-46497075">LinkedIn</a> ·
-  <a href="https://ljefferson-menoko-site.netlify.app/">Portfolio</a> ·
+  <a href="https://m3n0ko0g.netlify.app/">Portfolio</a> ·
   <a href="https://medium.com/@jefftkddan">Technical Writing</a>
 </p>
 
