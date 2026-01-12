@@ -34,19 +34,15 @@ I’ve worked across startups, production systems, and security-focused environm
 
 ## 🔭 Current Focus
 
-- **Obsidian Control Plane**  
+- **Obsidian Control Plane & Server 0**  
   A multi-tenant engineering workflow backend designed to support multiple companies under a shared platform.  
-  Focus areas: org/company tenancy, membership-driven RBAC, audit logging, and documentation-first APIs.
-
-- **Pathscribe**  
-  API detection and generation tooling to reduce friction between backend implementation and documentation.  
-  Built to support modular architectures and improve delivery velocity.
+  Focus areas: org/company tenancy, membership-driven RBAC, audit logging, and documentation-first APIs, Labs for Research of Ethical guidelines for Autonomous systems for reliability and rehabilitation efforts..
 
 - **NeuroTerp Index**  
   Structured data modeling and indexing project focused on clean schemas, ETL-friendly pipelines, and reference-grade data.
 
-- **Wicked Crimson**  
-  Cybersecurity training and tooling initiative focused on practical defense, monitoring, and education.
+- **Crimson Obsidain Industries - Human Assisted Daignostic Evaluation System- HADES**  
+  Structured data modeling and indexing project focused on clean schemas, ETL-friendly pipelines, and reference-grade data.
 
 ---
 
@@ -137,8 +133,8 @@ I design systems to remain understandable *under real-world conditions*.
 ## 🧠 Open Source & Education
 
 - **M3n0koOg Learning Lounge** — open-source classroom for software engineering & cybersecurity  
-- **1Kloc** — practical apps built in ≤1,000 lines of code, focused on real-world features  
-- **NetReaper** — contributor to unified network/security tooling
+- **1Kloc-version 2** — practical apps built in ≤1,000 lines of code, focused on real-world features  
+
 
 ---
 
