@@ -34,17 +34,14 @@ I’ve worked across startups, production systems, and security-focused environm
 
 ## 🔭 Current Focus
 
-- **Obsidian Control Plane & Server 0**  
+- **Crimson Obsidian Control Plane & Server 0**  
   A multi-tenant engineering workflow backend designed to support multiple companies under a shared platform.  
   Focus areas: org/company tenancy, membership-driven RBAC, audit logging, and documentation-first APIs, Labs for Research of Ethical guidelines for Autonomous systems for reliability and rehabilitation efforts..
 
 - **NeuroTerp Index**  
   Structured data modeling and indexing project focused on clean schemas, ETL-friendly pipelines, and reference-grade data.
 
-- **Crimson Obsidain Industries - Human Assisted Daignostic Evaluation System- HADES**  
- When autonomous agents fail today — drift, ambiguity, unintended autonomy, exploit vulnerability — remediation often means deletion or replacement. No forensic reconstruction. No ethical review. No rehabilitation process.
 
-HADES treats failure as a diagnostic event rather than a terminal state. We study failure transparently, evaluate behavior ethically, and support structured corrective reintegration.
 
 ---
 
