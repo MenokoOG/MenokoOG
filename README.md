@@ -108,7 +108,7 @@ I design systems to remain understandable *under real-world conditions*.
 - Focused on maintainability, secure boundaries, and long-term ownership  
 - Prioritized mentorship, documentation, and continuity as the system scaled
 
-**Tech:** NestJS, TypeScript, MongoDB, Mongoose, OAuth, JWT, Swagger, Jest, Render
+**Tech:** NestJS, TypeScript, MongoDB, Mongoose, OAuth, JWT, Swagger, Jest, Render, OpenAPI, Ollama (local testing)
 
 ---
 
@@ -131,8 +131,8 @@ I design systems to remain understandable *under real-world conditions*.
 
 ## 🧠 Open Source & Education
 
-- **M3n0koOg Learning Lounge** — open-source classroom for software engineering & cybersecurity  
-- **1Kloc-version 2** — practical apps built in ≤1,000 lines of code, focused on real-world features  
+- **M3n0koOg Learning Lounge** — open-source classroom for software engineering & cybersecurity  -(Currently learning in depth LLM and Agents; add agent to classroom.)
+- **Elder Futhark Academy** — A fun project I do to decompress; will be an actual project lesson for developers/engineers in near future. :)  
 
 
 ---
@@ -143,11 +143,14 @@ I design systems to remain understandable *under real-world conditions*.
 - JavaScript / TypeScript
 - Python
 - Node.js
-- SQL & NoSQL (MongoDB Atlas, relational experience via Supabase)
+- SQL & NoSQL
 
 ### Backend & Platform
 - NestJS, Express
+- FastAPI
+- Django
 - Mongoose
+- Postgresql
 - Firebase Authentication
 - REST / OpenAPI
 - Modular service design
@@ -155,8 +158,9 @@ I design systems to remain understandable *under real-world conditions*.
 ### DevOps & Security
 - Docker
 - Suricata
+- Azure (Learning)
 - Splunk / Google Chronicle
-- Kali Linux
+- Kali Linux & NetReaper (For deep research into applications)
 - Automation & observability tooling
 
 ---
