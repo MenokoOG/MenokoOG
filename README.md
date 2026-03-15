@@ -1,5 +1,5 @@
 # Lawrence Jefferson II
-### CTO | AI Systems | Web3 Infrastructure | Platform Architecture
+### Fractional CTO | AI Systems | Web3 Infrastructure | Platform Architecture
 
 I build **trustworthy technical systems**.
 
