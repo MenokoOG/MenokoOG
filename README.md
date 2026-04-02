@@ -15,7 +15,7 @@ My work focuses on the intersection of:
 
 ## Current Focus
 
-I am currently serving as **CTO of WELCOIN** , **Wel9** ,and **Community Backers, Inc **, building infrastructure that converts **wellness actions into programmable economic value** using AI and blockchain verification.
+I am currently serving as **CTO of WELCOIN** , **Wel9** ,and **Community Backers, Inc**, building infrastructure that converts **wellness actions into programmable economic value** using AI and blockchain verification.
 
 The system is designed around three pillars:
 
