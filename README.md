@@ -1,123 +1,120 @@
 # Lawrence Jefferson II
-### Fractional CTO | AI Systems | Web3 Infrastructure | Platform Architecture
 
-I build **trustworthy technical systems**.
-
-My work focuses on the intersection of:
-
-• Artificial Intelligence  
-• Blockchain infrastructure  
-• Platform architecture  
-• Verifiable data systems  
-• Secure backend engineering
+Senior Backend Systems Engineer | Full Stack | APIs | Cloud (AWS) | AI Integration
 
 ---
 
-## Current Focus
+## What I Do
 
-I am currently serving as **CTO of WELCOIN** , **Wel9** ,and **Community Backers, Inc**, building infrastructure that converts **wellness actions into programmable economic value** using AI and blockchain verification.
+I build full-stack applications with a strong focus on backend systems, APIs, and data pipelines.
 
-The system is designed around three pillars:
-
-1. **Measurement**
-   - AI-powered wellness scoring (WEL Matrix)
-
-2. **Verification**
-   - Cryptographic proof-of-impact systems
-   - Merkle verification models
-   - EVM blockchain anchoring
-
-3. **Incentives**
-   - Tokenized reward mechanisms
-   - Anti-gaming incentive models
+I specialize in:
+- fixing backend systems
+- building APIs and integrations
+- designing full-stack applications
+- deploying and stabilizing cloud systems
 
 ---
 
-## Core Technical Areas
+## Core Experience
 
-Platform Architecture  
-AI Systems Engineering  
-Web3 Infrastructure  
-Backend Systems  
-Distributed Verification Systems  
-Security-focused Engineering
+I’ve built and delivered:
 
----
+- multi-service backend systems with ETL pipelines  
+- real-time alerting systems with external API integrations  
+- full-stack web applications (frontend + backend)  
+- internal platforms (medical systems, classroom platforms)  
+- AI-integrated backend workflows  
 
-## Technologies I Work With
-
-Python  
-TypeScript  
-Node.js  
-React / Next.js  
-Docker  
-PostgreSQL  
-Redis  
-
-AI / LLM Tooling  
-Agent Architectures  
-Data Pipelines  
-
-EVM Smart Contracts  
-Blockchain Verification Models
+I focus on systems that are:
+- reliable  
+- scalable  
+- maintainable  
 
 ---
 
-## Featured Projects
+## Key Projects
 
-### AI Systems
-
-- **Local AI Mentoring Lab**
-- Python-based AI agents using Ollama
-- Data pipelines and local LLM experimentation
-
-### Platform Engineering
-
-- **Azure Platform Foundations Kit**
-- Cloud architecture fundamentals
-- Governance and RBAC models
-
-### Tools & Systems
-
-- API detection and generation tools
-- Platform developer tooling
-- Security and networking research
+### GunKustom (Co-Founder / Backend Architect)
+- Built ~95% of backend system  
+- Designed multi-service architecture  
+- Implemented ETL pipelines for product data  
+- Created API layer for complex part discovery  
 
 ---
 
-## Philosophy
-
-Good systems should be:
-
-• understandable  
-• verifiable  
-• secure  
-• maintainable
-
-Engineering is not about complexity —  
-it is about **clarity and trust at scale**.
+### PowerAlert (Backend Lead)
+- Rebuilt backend system  
+- Designed real-time alerting workflows  
+- Integrated external APIs (weather + hotel systems)  
+- Built notification and recommendation engine  
 
 ---
 
-## Links
+### Full Stack Applications
+- Built classroom platforms and internal systems  
+- Developed medical office scheduling and messaging systems  
+- Created portfolio and gallery applications  
+- Built collaborative tools (shared lists, messaging systems)  
 
-Portfolio  
+---
+
+### AI Systems / Automation
+- Built agent-based backend workflows  
+- Created data pipelines for AI-driven systems  
+- Focused on practical AI integration into backend systems  
+
+---
+
+## Tech Stack
+
+### Backend
+- Python
+- Node.js
+- TypeScript
+
+### Frontend
+- React
+- Next.js
+- Vite
+- Tailwind CSS
+
+### Cloud
+- AWS (in progress)
+- GCP
+- Firebase
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+
+### AI
+- LLM APIs
+- Agent workflows
+- Data pipelines
+
+---
+
+## How I Work
+
+I build systems that work in the real world.
+
+- keep architecture simple  
+- focus on reliability  
+- avoid unnecessary complexity  
+- deliver working systems quickly  
+
+---
+
+## Contact
+
+Portfolio:  
 https://ljefferson-menoko-site.netlify.app/
 
-LinkedIn  
+LinkedIn:  
 https://linkedin.com/in/lawrence-jefferson-ii-46497075
 
-GitHub  
+GitHub:  
 https://github.com/MenokoOG
-
----
-
-## Current Work
-
-Building **WELCOIN**
-
-A platform that enables communities and individuals to generate **verifiable wellness impact** and connect those signals to economic systems.
-
----
-
-*"Measure impact. Verify impact. Reward impact."*
