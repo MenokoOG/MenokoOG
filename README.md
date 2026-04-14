@@ -1,6 +1,6 @@
 # Lawrence Jefferson II
 
-Senior Backend Systems Engineer | Full Stack | APIs | Cloud (AWS) | AI Integration
+Senior Backend Systems Engineer | Full Stack | APIs | Cloud | AI Integration
 
 ---
 
