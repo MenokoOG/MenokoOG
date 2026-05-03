@@ -1,120 +1,146 @@
-# Lawrence Jefferson II
+# Lawrence Jefferson II (Menoko OG / Laguz Jera)
 
-Senior Backend Systems Engineer | Full Stack | APIs | Cloud | AI Integration
-
----
-
-## What I Do
-
-I build full-stack applications with a strong focus on backend systems, APIs, and data pipelines.
-
-I specialize in:
-- fixing backend systems
-- building APIs and integrations
-- designing full-stack applications
-- deploying and stabilizing cloud systems
+**AI Systems Engineer | Backend & Agentic Systems | Founder, Crimson Obsidian Industries**
 
 ---
 
-## Core Experience
+## 🧠 What I Do
 
-I’ve built and delivered:
+I design and build **reliable, production-grade systems** focused on:
 
-- multi-service backend systems with ETL pipelines  
-- real-time alerting systems with external API integrations  
-- full-stack web applications (frontend + backend)  
-- internal platforms (medical systems, classroom platforms)  
-- AI-integrated backend workflows  
+* backend architecture
+* APIs and integrations
+* ETL pipelines and data systems
+* agentic AI workflows
 
-I focus on systems that are:
-- reliable  
-- scalable  
-- maintainable  
+My work centers on systems where **correctness, observability, and scalability are critical**.
 
 ---
 
-## Key Projects
+## ⚙️ Core Capabilities
 
-### GunKustom (Co-Founder / Backend Architect)
-- Built ~95% of backend system  
-- Designed multi-service architecture  
-- Implemented ETL pipelines for product data  
-- Created API layer for complex part discovery  
-
----
-
-### PowerAlert (Backend Lead)
-- Rebuilt backend system  
-- Designed real-time alerting workflows  
-- Integrated external APIs (weather + hotel systems)  
-- Built notification and recommendation engine  
+* backend system design and recovery
+* API architecture and integrations
+* ETL pipeline design and automation
+* real-time and event-driven systems
+* AI-assisted and agent-based workflows
 
 ---
 
-### Full Stack Applications
-- Built classroom platforms and internal systems  
-- Developed medical office scheduling and messaging systems  
-- Created portfolio and gallery applications  
-- Built collaborative tools (shared lists, messaging systems)  
+## 🧩 Key Projects
+
+### 🔹 GunKustom (Co-Founder / Backend Architect)
+
+* Built ~95% of backend system
+* Designed multi-service architecture
+* Implemented ETL pipelines for product ingestion
+* Created API layer for complex part discovery
 
 ---
 
-### AI Systems / Automation
-- Built agent-based backend workflows  
-- Created data pipelines for AI-driven systems  
-- Focused on practical AI integration into backend systems  
+### 🔹 PowerAlert (Backend Lead)
+
+* Rebuilt backend architecture
+* Designed real-time alerting workflows
+* Integrated external APIs (weather + hospitality)
+* Built notification and recommendation engine
 
 ---
 
-## Tech Stack
+### 🔹 AI Learning Lounge
+
+* Full-stack AI-powered classroom platform
+* ETL pipelines for content ingestion
+* AI content simplification (adaptive learning levels)
+* Multi-role dashboards with automation workflows
+
+---
+
+### 🔹 Agentic Financial Platform
+
+* AI-assisted financial workflow system
+* deterministic validation and reconciliation
+* anomaly detection and exception handling
+* human-in-the-loop decision workflows
+* auditable system design
+
+---
+
+### 🔹 AutoForge Lab
+
+* Containerized automation and crawling system
+* OOP pipeline: Collector → Extractor → Validator → Store
+* FastAPI + PostgreSQL + Docker
+* scheduled ingestion and structured data pipelines
+
+---
+
+### 🔹 AgentKit (Local AgentOps)
+
+* Local-first agent framework using Ollama
+* rule-based + LLM-assisted workflows
+* human review integration
+* reversible operations with journaling
+
+---
+
+## 🧰 Tech Stack
 
 ### Backend
-- Python
-- Node.js
-- TypeScript
+
+Python
+Node.js
+TypeScript
 
 ### Frontend
-- React
-- Next.js
-- Vite
-- Tailwind CSS
+
+React
+Next.js
+Vite
+Tailwind CSS
 
 ### Cloud
-- AWS (in progress)
-- GCP
-- Firebase
+
+AWS (in progress)
+Google Cloud
+Firebase
+Render / Netlify
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
 
-### AI
-- LLM APIs
-- Agent workflows
-- Data pipelines
+PostgreSQL
+MongoDB
+MySQL
+Redis
 
----
+### AI / Systems
 
-## How I Work
-
-I build systems that work in the real world.
-
-- keep architecture simple  
-- focus on reliability  
-- avoid unnecessary complexity  
-- deliver working systems quickly  
+LLM APIs
+agent workflows
+data pipelines
+observability-first design
 
 ---
 
-## Contact
+## ⚡ How I Work
 
-Portfolio:  
+I build systems that operate under real conditions:
+
+* prioritize reliability over hype
+* maintain clear data flow and source of truth
+* design for observability and debugging
+* keep systems modular and maintainable
+* deliver working systems quickly
+
+---
+
+## 🌐 Contact
+
+**Portfolio:**
 https://ljefferson-menoko-site.netlify.app/
 
-LinkedIn:  
+**LinkedIn:**
 https://linkedin.com/in/lawrence-jefferson-ii-46497075
 
-GitHub:  
+**GitHub:**
 https://github.com/MenokoOG
