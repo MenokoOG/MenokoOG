@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 I design and build **reliable, production-grade systems** focused on:
 
@@ -17,7 +17,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-## ⚙️ Core Capabilities
+## Core Capabilities
 
 * backend system design and recovery
 * API architecture and integrations
@@ -29,7 +29,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ## 🧩 Key Projects
 
-### 🔹 GunKustom (Co-Founder / Backend Architect)
+### GunKustom (Co-Founder / Backend Architect)
 
 * Built ~95% of backend system
 * Designed multi-service architecture
@@ -38,7 +38,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-### 🔹 PowerAlert (Backend Lead)
+### PowerAlert (Backend Lead)
 
 * Rebuilt backend architecture
 * Designed real-time alerting workflows
@@ -47,7 +47,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-### 🔹 AI Learning Lounge
+### AI Learning Lounge
 
 * Full-stack AI-powered classroom platform
 * ETL pipelines for content ingestion
@@ -56,7 +56,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-### 🔹 Agentic Financial Platform
+### Agentic Financial Platform
 
 * AI-assisted financial workflow system
 * deterministic validation and reconciliation
@@ -66,7 +66,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-### 🔹 AutoForge Lab
+### AutoForge Lab
 
 * Containerized automation and crawling system
 * OOP pipeline: Collector → Extractor → Validator → Store
@@ -75,7 +75,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-### 🔹 AgentKit (Local AgentOps)
+### AgentKit (Local AgentOps)
 
 * Local-first agent framework using Ollama
 * rule-based + LLM-assisted workflows
@@ -84,7 +84,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -122,7 +122,7 @@ observability-first design
 
 ---
 
-## ⚡ How I Work
+## How I Work
 
 I build systems that operate under real conditions:
 
@@ -134,7 +134,7 @@ I build systems that operate under real conditions:
 
 ---
 
-## 🌐 Contact
+## Contact
 
 **Portfolio:**
 https://ljefferson-menoko-site.netlify.app/
