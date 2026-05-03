@@ -27,7 +27,7 @@ My work centers on systems where **correctness, observability, and scalability a
 
 ---
 
-## 🧩 Key Projects
+## Key Projects
 
 ### GunKustom (Co-Founder / Backend Architect)
 
@@ -101,7 +101,7 @@ Tailwind CSS
 
 ### Cloud
 
-AWS (in progress)
+AWS
 Google Cloud
 Firebase
 Render / Netlify
