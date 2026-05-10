@@ -1,6 +1,6 @@
 # Lawrence Jefferson II (Menoko OG / Laguz Jera)
 
-**AI Systems Engineer | Backend & Agentic Systems | Founder, Crimson Obsidian Industries**
+**Systems Engineer | Backend & Agentic Systems | Founder, Crimson Obsidian Industries**
 
 ---
 
