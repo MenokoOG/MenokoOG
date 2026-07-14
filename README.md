@@ -104,6 +104,7 @@ Guided by **LAHA — Love All Humans Always**: humans retain final authority ove
 
 ---
 
-### 🏆 Developer Milestones
-[![[MenokoOG]'s Trophies](https://vercel.app[YOUR_GITHUB_USERNAME]&theme=tokyonight&column=7)](https://github.com)
+![Commits](https://shields.io)
+![Repos](https://shields.io)
+![Followers](https://shields.io)
 
