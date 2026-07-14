@@ -113,5 +113,5 @@ Guided by **LAHA — Love All Humans Always**: humans retain final authority ove
 **Email:** lawrencejefferson@classhuman.org
 
 
-![MenokoOG's Top Languages](https://vercel.app)
+
 
