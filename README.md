@@ -111,3 +111,7 @@ Guided by **LAHA — Love All Humans Always**: humans retain final authority ove
 **LinkedIn:** https://www.linkedin.com/in/lawrence-jefferson-ii-46497075
 **GitHub:** https://github.com/MenokoOG
 **Email:** lawrencejefferson@classhuman.org
+
+
+![MenokoOG's Top Languages](https://vercel.app)
+
