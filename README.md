@@ -113,5 +113,5 @@ Guided by **LAHA — Love All Humans Always**: humans retain final authority ove
 **Email:** lawrencejefferson@classhuman.org
 
 
-
+[![MenokoOG's GitHub stats](https://github-stats-extended.vercel.app/api?username=menokoog)](https://github.com/stats-organization/github-stats-extended)
 
