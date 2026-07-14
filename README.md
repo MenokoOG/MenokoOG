@@ -104,11 +104,6 @@ Guided by **LAHA — Love All Humans Always**: humans retain final authority ove
 
 ---
 
-## Contribution Matrix
-
-### 📊 My GitHub Stats
-![MenokoOG's GitHub Stats](https://vercel.app)
-
-### 💻 Top Languages
-![MenokoOG's Top Languages](https://vercel.app)
+### 🏆 Developer Milestones
+[![[YourName]'s Trophies](https://vercel.app[YOUR_GITHUB_USERNAME]&theme=tokyonight&column=7)](https://github.com)
 
