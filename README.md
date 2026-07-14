@@ -4,7 +4,9 @@
 ---
 
 ## What I Do
+
 I design and build **production-grade intelligent systems** — not just prototypes. My work spans the full ML lifecycle and the backend infrastructure that carries it:
+
 * LLM integration, RAG, and agentic AI workflows
 * model evaluation, safety guardrails, and human-in-the-loop controls
 * backend architecture, APIs, and integrations
@@ -15,6 +17,7 @@ I focus on systems where **correctness, observability, and scalability are criti
 ---
 
 ## Core Capabilities
+
 * LLM orchestration, RAG, and prompt engineering
 * agentic AI workflows and agent frameworks
 * model evaluation, guardrails, and responsible-AI design
@@ -70,20 +73,28 @@ I focus on systems where **correctness, observability, and scalability are criti
 ---
 
 ## Tech Stack
-**AI / ML** LLM APIs · RAG · Agent Workflows · Fine-Tuning (QLoRA) · Model Evaluation · LLMOps · Ollama · Observability-First Design
 
-**Backend** Python · Node.js · TypeScript · FastAPI
+**AI / ML**
+LLM APIs · RAG · Agent Workflows · Fine-Tuning (QLoRA) · Model Evaluation · LLMOps · Ollama · Observability-First Design
 
-**Frontend** React · Next.js · Vite · Tailwind CSS
+**Backend**
+Python · Node.js · TypeScript · FastAPI
 
-**Cloud & DevOps** AWS · Google Cloud · Microsoft Azure · IBM Cloud · Docker · Firebase · Render / Netlify
+**Frontend**
+React · Next.js · Vite · Tailwind CSS
 
-**Databases** PostgreSQL · MongoDB · MySQL · Redis
+**Cloud & DevOps**
+AWS · Google Cloud · Microsoft Azure · IBM Cloud · Docker · Firebase · Render / Netlify
+
+**Databases**
+PostgreSQL · MongoDB · MySQL · Redis
 
 ---
 
 ## How I Work
+
 I build systems that operate under real conditions:
+
 * prioritize reliability over hype
 * maintain clear data flow and source of truth
 * design for observability and debugging
@@ -95,16 +106,12 @@ Guided by **LAHA — Love All Humans Always**: humans retain final authority ove
 ---
 
 ## Contact
-**Portfolio:** https://ljefferson-menoko-site.netlify.app 
-**LinkedIn:** https://www.linkedin.com/in/lawrence-jefferson-ii-46497075 
-**GitHub:** https://github.com/MenokoOG 
+
+**Portfolio:** https://ljefferson-menoko-site.netlify.app
+**LinkedIn:** https://www.linkedin.com/in/lawrence-jefferson-ii-46497075
+**GitHub:** https://github.com/MenokoOG
 **Email:** lawrencejefferson@classhuman.org
 
----
 
----
-
-![Commits](https://shields.io)
-![Repos](https://shields.io)
-![Followers](https://shields.io)
+![MenokoOG's Top Languages](https://vercel.app)
 
