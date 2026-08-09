@@ -27,6 +27,11 @@ I focus on systems where **correctness, observability, and scalability are criti
 * real-time and event-driven systems
 
 ---
+Work from 2009-2015: Proof of Industry Expereince
+
+https://menokoog.github.io/Past-Web-Projects-for-Clients-main
+
+---
 
 ## Key Projects
 
