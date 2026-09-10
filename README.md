@@ -40,7 +40,7 @@ Twenty-four pattern agents, each bound to a pattern that gives it a discipline, 
 
 **HADES** is the data layer: it sizes and governs the Data Lake sort and carries the Human Authorized Data Eradication Sequence, where bad data is eradicated only when a human signs.
 
-**Not yet available outside classHuman AI tooling.** No benchmark claims without a benchmark. → [classhuman.org](https://classhuman.org)
+**Ag3nt24 Demo Site**  → [Ag3nt24 Demo Site](https://menokoog.github.io/Ag3nt24-oss/)
 
 ---
 
