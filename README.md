@@ -34,7 +34,7 @@ My father wrote COBOL starting in the 1960s. The lesson came through without eve
 
 ### Ag3nt24 with HADES: what I'm building
 
-Ag3nt24 Droid Protocol Multi-Agent Framework with Anti-Corruption Layer, our legacy AI systems modernization framework. Intelligence is flexible. Authority is stable.
+Ag3nt24 Protocol Droid Multi-Agent Framework with Anti-Corruption Layer, our legacy AI systems modernization framework. Intelligence is flexible. Authority is stable.
 
 A business has an AI system it can no longer explain. Twenty-four pattern roles, each bound to an ITF pattern that gives it a discipline, a duty and a failure mode, do the protocol-droid work at the seam between that inherited estate and a modern stack. Every crossing passes a policy-engine boundary (Cedar, default deny, no I/O, every policy change proven not to widen access), each role signs what it proposes with its own key, a human signs in HADES, and only then does state change. One receipt per decision, hash-chained.
 
