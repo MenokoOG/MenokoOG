@@ -32,16 +32,17 @@ My father wrote COBOL starting in the 1960s. The lesson came through without eve
 
 ---
 
-## Ag3nt24 with HADES: what I'm building
+### Ag3nt24 with HADES: what I'm building
 
-**Ag3nt24 Droid Protocol Multi-Agent Framework with Anti-Corruption Layer**, our legacy AI systems modernization framework. *Intelligence is flexible. Authority is stable.*
+Ag3nt24 Droid Protocol Multi-Agent Framework with Anti-Corruption Layer, our legacy AI systems modernization framework. Intelligence is flexible. Authority is stable.
 
-Twenty-four pattern agents, each bound to a pattern that gives it a discipline, a duty and a failure mode. They do the protocol-droid work at the seam. Proposals pass gates, verdicts merge into a signed Decision Certificate, a human signs, and only then does state change. The gate kernel is compiled COBOL operating on slot indices: same input, same verdict, every time.
+A business has an AI system it can no longer explain. Twenty-four pattern roles, each bound to an ITF pattern that gives it a discipline, a duty and a failure mode, do the protocol-droid work at the seam between that inherited estate and a modern stack. Every crossing passes a policy-engine boundary (Cedar, default deny, no I/O, every policy change proven not to widen access), each role signs what it proposes with its own key, a human signs in HADES, and only then does state change. One receipt per decision, hash-chained.
 
-**HADES** is the data layer: it sizes and governs the Data Lake sort and carries the Human Authorized Data Eradication Sequence, where bad data is eradicated only when a human signs.
+HADES is the control room: it sorts and validates the Data Lake on the way in and carries the Human Authorized Data Eradication Sequence on the way out, where bad data is eradicated only when a human signs.
 
-**Ag3nt24 Demo Site**  → [Ag3nt24 Demo Site](https://menokoog.github.io/Ag3nt24-oss/)
+I'm building it in the open under Apache-2.0. Implemented agents: 0. Eighteen decision records, a contracts package with passing tests, and no benchmark claims until there's a benchmark.
 
+Ag3nt24 Demo Site → [Ag3nt24 Demo Site](https://menokoog.github.io/Ag3nt24-oss/)
 ---
 
 ## Selected work
