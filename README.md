@@ -3,21 +3,9 @@
 
 # Lawrence Jefferson II (Menoko OG)
 
-**AI / ML Engineer · Legacy AI Systems Modernization · Founder, classHuman AI**
+**AI / ML Engineer · Founder, classHuman AI**
 
 *WDVA Certified Veteran Owned Business · 24 years U.S. Army*
-
----
-
-## What I do
-
-I modernize the AI systems businesses built over the last five years and can no longer explain, and I build the production systems underneath them.
-
-Between 2021 and 2026 companies assembled AI as the field changed under them: prompt chains, RAG v1, fine-tunes, vector stores, orchestration glue. It runs. Nobody inside can say what it does, so nobody will sign off on replacing it. The bottleneck is authority, not capability.
-
-I build for the seam: adapter agents fluent in the inherited estate on one side and a modern stack on the other, behind an Anti-Corruption Layer a human controls. Agents propose. A human signs. Read the system first, then choose.
-
-My father wrote COBOL starting in the 1960s. The lesson came through without ever being said: data integrity is the whole game. If you can't trust the source, nothing built on it is trustworthy either. That's still how I build.
 
 ---
 
@@ -32,19 +20,6 @@ My father wrote COBOL starting in the 1960s. The lesson came through without eve
 
 ---
 
-### Ag3nt24 with HADES: what I'm building
-
-Ag3nt24 Protocol Droid Multi-Agent Framework with Anti-Corruption Layer, our legacy AI systems modernization framework. Intelligence is flexible. Authority is stable.
-
-A business has an AI system it can no longer explain. Twenty-four pattern roles, each bound to an ITF pattern that gives it a discipline, a duty and a failure mode, do the protocol-droid work at the seam between that inherited estate and a modern stack. Every crossing passes a policy-engine boundary (Cedar, default deny, no I/O, every policy change proven not to widen access), each role signs what it proposes with its own key, a human signs in HADES, and only then does state change. One receipt per decision, hash-chained.
-
-HADES is the control room: it sorts and validates the Data Lake on the way in and carries the Human Authorized Data Eradication Sequence on the way out, where bad data is eradicated only when a human signs.
-
-I'm building it in the open under Apache-2.0. Implemented agents: 0. Eighteen decision records, a contracts package with passing tests, and no benchmark claims until there's a benchmark.
-
-Ag3nt24 Demo Site → [Ag3nt24 Demo Site](https://menokoog.github.io/Ag3nt24-oss/)
----
-
 ## Selected work
 
 ### GunKustom, Co-Founder / CTO / Backend Architect
@@ -52,9 +27,6 @@ Joined as senior backend engineer, CTO within six months. Inherited non-function
 
 ### PowAlert, Backend Lead
 Real-time snowfall alerting for a Texas capital-management partner. MERN, resort-level weather ingestion, SMS and email alerts on user-defined thresholds. The engineering problem was reliability at the edges: cron-driven fetch cycles, 24-hour duplicate suppression, phone validation ahead of the SMS provider, batched reads and writes to keep processing flat as users grow. → [powalert.com](https://powalert.com)
-
-### Willow Bend Family Clinic, production-shaped AI demo
-Public, fully sanitized rebrand of a real client build. **Human-in-the-loop by architecture: the LLM has no write path to appointments.** Care assistant with guardrails that degrades gracefully to an offline engine, so the demo never breaks. React + TypeScript + Firebase (Firestore transactions with audit flags) + Netlify Functions. → [willow-bend.netlify.app](https://willow-bend.netlify.app)
 
 ### ProForma, build the AI business case
 Open source, Apache-2.0. Turns a Gen AI initiative into a 5-year cost, benefit and risk projection: payback year, ROI, NPV, IRR, and the peak funding requirement. Runs entirely in the browser with no account and no backend. The calculation engine carries 96 regression tests checked against a source workbook, so a refactor can't move a number quietly. Colour contrast is tested in CI against the real stylesheet token block in both themes. 102 kB gzipped, no runtime dependency but React, hand-rolled SVG chart so it prints correctly. Frameworks credited to Ed Donner's *AI Leadership: Commercial value with AI*. → [github.com/MenokoOG/proforma](https://github.com/MenokoOG/proforma)
@@ -64,15 +36,6 @@ Static time and space complexity estimator for Python, built for agents. Per-fun
 
 ### Learn: 247 free resources
 A filterable library of free software engineering, AI and ML courses, docs and lectures, every URL checked. Published on both sites. → [classhuman.org/learn](https://classhuman.org/learn)
-
-### AI Learning Lounge
-Full-stack AI classroom platform. ETL content ingestion, AI content simplification for adaptive reading levels, multi-role dashboards with automation workflows.
-
-### AgentKit, local AgentOps
-Local-first agent framework on Ollama. Rule-based plus LLM-assisted workflows, human review integration, reversible operations with journaling.
-
-### AutoForge Lab
-Containerized automation and crawling system. OOP pipeline: Collector → Extractor → Validator → Store. FastAPI + PostgreSQL + Docker, scheduled ingestion, structured output.
 
 **Earlier client work, 2009–2015:** [menokoog.github.io/Past-Web-Projects-for-Clients-main](https://menokoog.github.io/Past-Web-Projects-for-Clients-main)
 
