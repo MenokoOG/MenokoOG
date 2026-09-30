@@ -43,21 +43,8 @@ My research is AI governance and auditing, specializing in agents and agent harn
 * [Harness audit checklist v0.1](https://classhuman.org/research/harness-audit) <!-- WO1 -->: free, runs in the browser, exports Markdown, sends nothing anywhere. It maps to published frameworks. Its results are evidence for a human reviewer.
 * [Research hub](https://classhuman.org/research) <!-- WO1 -->, and the track on [auditing inherited AI estates](https://classhuman.org/legacy).
 
----
 
-## Ag3nt24 with HADES: the open research harness
 
-**Ag3nt24 Droid Protocol Multi-Agent Framework with Anti-Corruption Layer**, the open research harness for the governance work. *Intelligence is flexible. Authority is stable.* **Open source, Apache-2.0: [github.com/MenokoOG/Ag3nt24-oss](https://github.com/MenokoOG/Ag3nt24-oss). Contributors welcome.**
-
-Read every "does" below as "is designed to." It's being built, and it earns each claim under a Production Definition of Done before I cite it as capability.
-
-Twenty-four pattern slots, each bound to a pattern that gives it a discipline, a duty and a failure mode. The registry refuses to load if a pattern lacks an agent, an agent lacks a pattern, or a capability is claimed twice. The agents are registered and their behavior is being built. Proposals pass gates, verdicts merge into a signed Decision Certificate, a human signs, and only then does state change. The gate kernel is compiled COBOL operating on slot indices: same input, same verdict, every time.
-
-**HADES** is the control room at the boundary: the Human Authorized Data Evaluation System on the way in, the Human Authorized Data Eradication Sequence on the way out. Bad data is eradicated only when a human signs.
-
-Phase 1 (kernel port, conformance 5/5) and Phase 2 (pattern registry and translation, 24/24 registered) are done. Phase 3 (kernel container) is next, designed and not built. No benchmark claims without a benchmark. → [classhuman.org](https://classhuman.org)
-
----
 
 ## Selected work
 
