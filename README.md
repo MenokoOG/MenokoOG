@@ -32,6 +32,9 @@ A sanitized rebrand of a real client build. The LLM has no write path to appoint
 ### ProForma: the AI business case
 Open source, Apache-2.0. Turns a generative AI initiative into a 5-year cost, benefit and risk projection: payback year, ROI, NPV, IRR and peak funding. Runs in the browser with no account and no backend. 96 regression tests against a source workbook, so a refactor can't quietly move a number. → [github.com/MenokoOG/proforma](https://github.com/MenokoOG/proforma)
 
+### Agent Autopsy: 17 ways AI agents fail
+Open source, MIT. Each failure is a runnable `broken.py`, a repaired `fixed.py` and tests that prove the repair: runaway loops, silent tool failures, prompt injection, memory poisoning, a rubber-stamp verifier. 87 tests, no API key required, a written lesson per failure and a code-review checklist. → [menokoog.github.io/agent-autopsy](https://menokoog.github.io/agent-autopsy/) · [github.com/MenokoOG/agent-autopsy](https://github.com/MenokoOG/agent-autopsy)
+
 ### Asymptote
 Static time and space complexity estimator for Python, built for agents. Per-function Big-O with confidence, evidence, and the unknowns it can't decide. CLI, agent tool, or MCP server. v0.1.
 
@@ -40,7 +43,6 @@ My site answers questions about my work with real retrieval: keyword search over
 
 ### Also
 - **AI Learning Lounge:** full-stack AI classroom with ETL content ingestion and reading-level simplification.
-- **AgentKit:** local-first agent framework on Ollama with human review and reversible, journaled operations.
 - **AutoForge Lab:** containerized crawling pipeline (Collector, Extractor, Validator, Store) on FastAPI, PostgreSQL and Docker.
 
 **Earlier client work, 2009 to 2015:** [menokoog.github.io/Past-Web-Projects-for-Clients-main](https://menokoog.github.io/Past-Web-Projects-for-Clients-main)
