@@ -1,6 +1,6 @@
 # Menoko OG (Lawrence Jefferson II)
 
-**AI Engineer · Senior Full-Stack Developer · TypeScript, JavaScript, Python**
+**Forward Deployed Engineer for classHuman AI · AI Engineer · Senior Full-Stack Developer · TypeScript, JavaScript, Python**
 
 *24 years U.S. Army · B.S. in Artificial Intelligence in progress*
 
