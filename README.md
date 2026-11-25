@@ -1,8 +1,8 @@
 # Menoko OG (Lawrence Jefferson II)
  
-**AI Engineer · Senior Full-Stack Agentic Developer · TypeScript, JavaScript, Python**
+**Forward Deployed Engineer, classHuman AI · Full-Stack Agentic Developer · TypeScript, JavaScript, Python**
  
-*Founder, classHuman AI LLC · 24 years U.S. Army*
+*Founder, classHuman AI LLC · 24 years, U.S. Army and National Guard*
  
 ---
  
@@ -26,27 +26,49 @@ Each failure has a runnable `broken.py` and a repaired `fixed.py`, with a writte
  
 → [Read the series](https://menokoog.github.io/agent-autopsy/) · [github.com/MenokoOG/agent-autopsy](https://github.com/MenokoOG/agent-autopsy)
  
+### agent-lab: ten agent builds and a framework
+My build of a 10-module agent builder course I wrote for myself from Sam Bhagwat's *Principles of Building AI Agents* and *Patterns for Building AI Agents*. It covers tools, memory, MCP, workflows, RAG, evals and guards. The capstone, `agentkit/`, merges all ten into one framework with a support desk example. The tests use a fake model, so they need no API key.
+ 
+→ [github.com/MenokoOG/agent-lab](https://github.com/MenokoOG/agent-lab)
+ 
 ### Asymptote: complexity analysis for agents
 Static Big-O estimator for Python. It reports time and space per function with confidence, evidence and the unknowns it can't decide. Runs as a CLI, an agent tool or an MCP server. The core needs only the Python standard library. v0.1, MIT.
  
 → [github.com/MenokoOG/asymptote](https://github.com/MenokoOG/asymptote)
  
+### Blue Cottage Mini: prototype
+A mobile-first Next.js tour of the 24 ITF Taekwon-Do patterns. A Master Instructor agent leads 6 belt agents and 24 pattern agents. Each agent is a scope of sourced facts plus a persona. Routing is deterministic, and a coach answer takes one model call through OpenAI. MIT.
+ 
+→ [github.com/MenokoOG/Blue-Cottage-Mini](https://github.com/MenokoOG/Blue-Cottage-Mini)
+ 
 ### NeuroTerp Index: in development
-An evidence-graded reference tool for people in recovery, and the first classHuman AI product I'm taking to market.
-<!-- TODO(Lawrence): add one verified line on what is agentic here, or cut this entry. Confirm you want it announced. -->
+I'm building this as Forward Deployed Engineer for classHuman AI. It's an evidence-graded reference tool for people in recovery, and the first classHuman AI product headed to market.
+ 
+---
+ 
+## Models and tools
+ 
+### ProForma: the AI business case
+Turns a generative AI idea into a five-year cost, benefit and risk projection, with payback year, peak funding need and NPV. It runs in the browser with no account or backend, and an optional reviewer agent is off by default. Its arithmetic is verified against the source workbook and guarded by regression tests. It implements four frameworks taught by [Ed Donner](https://edwarddonner.com/proficient/); the app is mine. Open source, Apache-2.0.
+ 
+→ [Live demo](https://menokoog.github.io/proforma/app/) · [github.com/MenokoOG/proforma](https://github.com/MenokoOG/proforma)
+ 
+### ZoltanFool: a language model built by hand
+A small byte-level language model for Python code, written in PyTorch. I'm building it module by module as a course lesson. The code for every stage is in and its README reports 87 passing tests. I haven't done real training runs yet, so there are no model results.
+ 
+→ [github.com/MenokoOG/zoltanfool](https://github.com/MenokoOG/zoltanfool)
  
 ---
  
 ## Products on the market
  
-### GunKustom: former CTO, co-founder (2024 to 2026)
-I joined as senior backend engineer and became CTO within six months. We rebuilt a monolith that couldn't ship and put v1 in production in twelve months. I designed and built about 90% of the backend: a hybrid NestJS and Python system that normalizes multi-format vendor feeds, with idempotent upserts and alias-driven matching.
-<!-- TODO(Lawrence): check "six months", "twelve months" and "about 90%" against FACTS.md. -->
+### GunKustom: CTO and co-founder (Oct 2024 to Jan 2026)
+I joined as Senior Lead Back-End Engineer and was promoted to CTO about six months in. I rebuilt the backend into microservices with an ETL pipeline, and I designed and implemented about 90% of it.
  
 → [gunkustom.com](https://gunkustom.com)
  
-### PowAlert: backend lead
-Real-time snowfall alerts on the MERN stack: resort-level weather ingestion with SMS and email alerts on user-set thresholds. I worked the reliability edges: cron fetch cycles, 24-hour duplicate suppression, phone validation ahead of the SMS provider, batched reads and writes.
+### PowAlert: back-end developer (Jan to Mar 2025)
+A real-time snow-alert service. I led the design and built the backend server with event-driven notifications.
  
 → [powalert.com](https://powalert.com)
  
@@ -63,8 +85,6 @@ These are the rules behind LINKFALL.
 5. **Outside input is untrusted.** The hardened mode holds outside orders for a human.
 6. **The model runs small and offline,** in a container with no route out, and can be swapped.
 7. **Code judges the results.** No model grades a model.
-<!-- TODO(Lawrence): "legacy systems" is left out. The evidence I found covers a CPU-only 16 GB laptop. If you've shipped on older hardware, add the machine and the result to FACTS.md first. -->
- 
 ---
  
 ## Stack
